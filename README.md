@@ -2,7 +2,8 @@
 
 ## A full-stack software engineer and writer
 
-- 🔭 I’m currently working on a world sim called **Monolith**
+- 🔭 I’m currently working on an unannonced **space game**
+- 💡 I’m currently working on the concept for a world sim called **Monolith**
 - 🌱 I’m currently learning **Svelte and Unreal 5**
 - 💬 Ask me about **.Net 6 and Code Quality**
 
