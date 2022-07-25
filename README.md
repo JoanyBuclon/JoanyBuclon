@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Svelte and Unreal 5**
 - 💬 Ask me about **.Net 6 and Code Quality**
 
+Discover more about me, [check out my portfolio](https://joanybuclon.com/)
+
 ## Languages and Tools
 
 ### Languages
