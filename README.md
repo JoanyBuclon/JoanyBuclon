@@ -37,7 +37,7 @@ Discover more about me, [check out my portfolio](https://joanybuclon.com/)
   <img align="left" alt="Git" width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
   <img align="left" alt="Neo4j" width="50px" src="https://res.cloudinary.com/crunchbase-production/image/upload/hva1nqwzqbhjm4g75ccc" />
   <img align="left" alt="Github Actions" width="50px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" />
-  <img align="left" alt="AWS" width="50px" src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" />
+  <img align="left" alt="AWS" width="50px" src="https://w7.pngwing.com/pngs/862/624/png-transparent-aws-vector-brand-logos-icon.png" />
   <br /><br /><br /><br />
   
 You can also find more on [LinkedIn](https://www.linkedin.com/in/joany-buclon/) !
