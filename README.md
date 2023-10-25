@@ -3,12 +3,19 @@
 <h2>A full-stack Software Engineer and Writer from <img alt="France" width="17px" src="https://camo.githubusercontent.com/810c0059ec880d3bf22c12f8ecd24d39ae1c9ee5d294cd397e6f414738d9cdd8/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536302e706e67" /> <b>France</b></h2>
 
 - 📖 I'm writing a **Fantasy Novel** 🧙 in french
-- 🔭 I’m currently working on an **unannonced Space Game**, I'll tell you more about it in 2023 😉
-- 💡 I’m preparing a concept for a **World Sim** called **Monolith**, come back in a few years to learn more
-- 🌱 I’m presently learning **Neo4j** and **Unreal 5.1**
-- 💬 Ask me about **.Net 7** and **Code Quality**
+- 💡 I’m preparing a concept for a **World Sim** :video_game: called **Monolith**
+- 🌱 I’m presently learning **Neo4j** and **Unreal 5.3**
+- 💬 Ask me about **.Net 8** and **Code Quality**
 
 Discover more about me, [check out my portfolio](https://joanybuclon.com/)
+
+You can also find more on [LinkedIn](https://www.linkedin.com/in/joany-buclon/) !
+
+## Latest Blog Posts (in french)
+
+- [Neo4J - Introduction aux bases de données orientées graphes](https://www.sfeir.dev/data/neo4j-introduction-aux-bases-de-donnees-orientees-graphes/)
+
+(More coming soon!)
 
 ## Languages and Tools
 
@@ -39,5 +46,3 @@ Discover more about me, [check out my portfolio](https://joanybuclon.com/)
   <img align="left" alt="Github Actions" width="50px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" />
   <img align="left" alt="AWS" width="50px" src="https://w7.pngwing.com/pngs/862/624/png-transparent-aws-vector-brand-logos-icon.png" />
   <br /><br /><br /><br />
-  
-You can also find more on [LinkedIn](https://www.linkedin.com/in/joany-buclon/) !
