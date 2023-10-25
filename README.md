@@ -13,7 +13,8 @@ You can also find more on [LinkedIn](https://www.linkedin.com/in/joany-buclon/) 
 
 ## Latest Blog Posts (in french)
 
-- [Neo4J - Introduction aux bases de données orientées graphes](https://www.sfeir.dev/data/neo4j-introduction-aux-bases-de-donnees-orientees-graphes/)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 (More coming soon!)
 
