@@ -4,7 +4,7 @@
 
 - 📖 I'm writing a **Fantasy Novel** 🧙 in french
 - 💡 I’m preparing a concept for a **World Sim** :video_game: called **Monolith**
-- 🌱 I’m presently learning **Neo4j** and **Unreal 5.3**
+- 🌱 I’m presently learning **Neo4j** and **Unreal 5.4**
 - 💬 Ask me about **.Net 8** and **Code Quality**
 
 Discover more about me, [check out my portfolio](https://joanybuclon.com/)
