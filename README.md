@@ -14,6 +14,7 @@ You can also find more on [LinkedIn](https://www.linkedin.com/in/joany-buclon/) 
 ## Latest Blog Posts (in french)
 
 <!-- BLOG-POST-LIST:START -->
+- [Définition : .Net](https://www.sfeir.dev/back/kesako-dot-net/)
 - [Késaco : Svelte](https://www.sfeir.dev/front/kesaco-svelte/)
 - [John von Neumann : l&#39;origine de l&#39;ordinateur numérique](https://www.sfeir.dev/success-story/von-neumann/)
 - [Introduction aux bases de données Orientées Graphes](https://www.sfeir.dev/data/neo4j-introduction-aux-bases-de-donnees-orientees-graphes/)
