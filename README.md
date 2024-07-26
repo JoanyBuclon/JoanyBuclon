@@ -14,6 +14,7 @@ You can also find more on [LinkedIn](https://www.linkedin.com/in/joany-buclon/) 
 ## Latest Blog Posts (in french)
 
 <!-- BLOG-POST-LIST:START -->
+- [Error 404, article not found, L&#39;odyssée du 404ème post sfeir.dev](https://www.sfeir.dev/tendances/404/)
 - [Définition : .Net](https://www.sfeir.dev/back/kesako-dot-net/)
 - [Késaco : Svelte](https://www.sfeir.dev/front/kesaco-svelte/)
 - [John von Neumann : l&#39;origine de l&#39;ordinateur numérique](https://www.sfeir.dev/success-story/von-neumann/)
