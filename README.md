@@ -21,6 +21,8 @@ You can also find more on [LinkedIn](https://www.linkedin.com/in/joany-buclon/) 
 - [Introduction aux bases de données Orientées Graphes](https://www.sfeir.dev/data/neo4j-introduction-aux-bases-de-donnees-orientees-graphes/)
 <!-- BLOG-POST-LIST:END -->
 
+All my Sfeir posts can be found [here](https://www.sfeir.dev/author/joany/)
+
 ## Languages and Tools
 
 ### Languages
