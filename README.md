@@ -53,5 +53,6 @@ All my Sfeir posts can be found [here](https://www.sfeir.dev/author/joany/)
   <img align="left" alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />  
   <img align="left" alt="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
   <img align="left" alt="Cloudflare" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+  <img align="left" alt="Obisidian" width="35px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/obsidian.svg" />
   <img align="left" alt="Claude Code" width="30px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" />
   <br /><br /><br /><br />
