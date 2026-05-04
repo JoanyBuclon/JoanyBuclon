@@ -1,10 +1,10 @@
 # Hi 👋, I'm Joany Buclon
 
-<h2>A full-stack Software Engineer and Writer from <img alt="France" width="17px" src="https://camo.githubusercontent.com/810c0059ec880d3bf22c12f8ecd24d39ae1c9ee5d294cd397e6f414738d9cdd8/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536302e706e67" /> <b>France</b></h2>
+<h2>A full-stack Software Engineer and Writer from <b>France</b></h2>
 
 - 📖 I'm writing a **Fantasy Novel** 🧙 in french
-- 💡 I’m working on a **World Sim** :video_game: called **Monolith** on **Unreal 5.7**
-- 🌱 I’m presently learning **Claude Code** and **Nuxt 4**
+- 💡 I’m working on a **World Sim** :video_game: called **Monolith** on **Godot**
+- 🌱 I’m presently learning **Claude Code** and **Astro**
 - 💬 Ask me about **.Net 10** and **Code Quality**
 
 Discover more about me, [check out my portfolio](https://joanybuclon.com/)
@@ -21,7 +21,7 @@ You can also find more on [LinkedIn](https://www.linkedin.com/in/joany-buclon/) 
 - [John von Neumann : l&#39;origine de l&#39;ordinateur numérique](https://www.sfeir.dev/success-story/von-neumann/)
 <!-- BLOG-POST-LIST:END -->
 
-All my Sfeir posts can be found [here](https://www.sfeir.dev/author/joany/)
+All my posts can be found [here](https://www.sfeir.dev/author/joany/)
 
 ## Languages and Tools
 
@@ -31,7 +31,7 @@ All my Sfeir posts can be found [here](https://www.sfeir.dev/author/joany/)
   <img align="left" alt="C Plus Plus" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img align="left" alt="Javascript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="Typescript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <br /><br />
+  <br /><br /><br /><br />
 
 ### Frameworks
 
@@ -41,7 +41,7 @@ All my Sfeir posts can be found [here](https://www.sfeir.dev/author/joany/)
   <img align="left" alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="Svelte" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
   <img align="left" alt="Nuxt" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" />
-  <br /><br />
+  <br /><br /><br /><br />
 
 ### Tools
 
